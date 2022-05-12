@@ -130,16 +130,5 @@ list_num=[dict_1.get("Количество "),dict_2.get("Количество "
 list_unit=[dict_1.get("Единицы измерения "),dict_2.get("Единицы измерения "),dict_3.get("Единицы измерения ")]
 master_dict={"Название товара: ":list_name, "Цена ":list_price, "Количество ":list_num, "Единицы измерения ":list_unit}
 print(master_dict)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
+
